@@ -1,4 +1,39 @@
 {
+  "version": "1.0",
+  "language_support": ["en", "ko"],
+  "id": "SwitchOn",
+  "localization": {
+    "en": {
+      "title": "SwitchOn 28-Day Kickstart",
+      "subtitle": "A gentle 28-day reset focusing on whole foods and lifestyle balance.",
+      "description": "Designed to help you reset your metabolism, reduce inflammation, and form clean-eating habits."
+    },
+    "ko": {
+      "title": "스위치온 28일 킥스타트",
+      "subtitle": "28일 동안의 식습관 리셋 프로그램",
+      "description": "대사 리셋과 염증 완화를 돕고 클린 이팅 습관을 형성하도록 설계된 프로그램입니다."
+    }
+  },
+  "meta": {
+    "duration_days": {
+      "ko": "28일",
+      "en": "28 days"
+    },
+    "difficulty": {
+      "ko": "중간",
+      "en": "moderate"
+    },
+    "tags": {
+      "ko": ["리셋", "영양", "습관"],
+      "en": ["reset", "nutrition", "habit"]
+    }
+  },
+  "legal": {
+    "copyright": {
+      "en": "SwitchOn Plan Developed by Prof. Yongwoo Park",
+      "ko": "스위치온 다이어트 플랜의 개발자는 박용우 교수님입니다"
+    }
+  },
    "schedule":[
       {
          "day":1,
