@@ -1,0 +1,84 @@
+{
+  "diet_course_catalog_extension": [
+    {
+      "course_id": "CARNIVORE_ELIM",
+      "name": "Carnivore (Zero-Carb)",
+      "primary_objective": "Ultimate Elimination & Autoimmune Reset",
+      "nutritional_logic": {
+        "carb_strategy": "Zero (Animal products only)",
+        "protein_target": "High (35% - 40%)",
+        "fat_strategy": "High (Primary fuel from animal fats)",
+        "sugar_policy": "Strict Zero (Including all plant-based sweeteners)"
+      },
+      "macro_distribution": {
+        "protein": "35-40%",
+        "carbs": "0-2%",
+        "fat": "60-65%"
+      }
+    },
+    {
+      "course_id": "DASH_HYPERTENSION",
+      "name": "DASH (Dietary Approaches to Stop Hypertension)",
+      "primary_objective": "Blood Pressure Control & Sodium Reduction",
+      "nutritional_logic": {
+        "carb_strategy": "High (Whole grains and fruit focus)",
+        "protein_target": "Moderate (Lean poultry/low-fat dairy)",
+        "fat_strategy": "Low (Restriction of saturated fats)",
+        "sugar_policy": "Very Low (Restricted sweets/sodas)"
+      },
+      "macro_distribution": {
+        "protein": "18-20%",
+        "carbs": "50-55%",
+        "fat": "25-30%"
+      }
+    },
+    {
+      "course_id": "FODMAP_SENSITIVE",
+      "name": "Low-FODMAP Diet",
+      "primary_objective": "IBS Relief & Gut Sensitivity Management",
+      "nutritional_logic": {
+        "carb_strategy": "Selective (Avoid fermentable short-chain carbs)",
+        "protein_target": "Consistent with standard health",
+        "fat_strategy": "Moderate (Oil-based focus)",
+        "sugar_policy": "Strict (No high-fructose or polyols)"
+      },
+      "macro_distribution": {
+        "protein": "20-25%",
+        "carbs": "45-50%",
+        "fat": "25-30%"
+      }
+    },
+    {
+      "course_id": "WFPB_VEGAN",
+      "name": "Whole-Food Plant-Based (WFPB)",
+      "primary_objective": "Disease Prevention & Maximum Fiber",
+      "nutritional_logic": {
+        "carb_strategy": "High (Unprocessed starches and tubers)",
+        "protein_target": "Moderate (Legumes, nuts, seeds)",
+        "fat_strategy": "Low (No added oils; whole fats only)",
+        "sugar_policy": "Zero Refined (Fruit-derived only)"
+      },
+      "macro_distribution": {
+        "protein": "12-15%",
+        "carbs": "70-75%",
+        "fat": "10-15%"
+      }
+    },
+    {
+      "course_id": "VERTICAL_DIET",
+      "name": "The Vertical Diet",
+      "primary_objective": "Performance & Digestibility for Athletes",
+      "nutritional_logic": {
+        "carb_strategy": "Strategic (Rice and potato for easy digestion)",
+        "protein_target": "Very High (Red meat focus for micronutrients)",
+        "fat_strategy": "Moderate (Animal fats and egg yolks)",
+        "sugar_policy": "Low (Low-gas fruit only)"
+      },
+      "macro_distribution": {
+        "protein": "30-35%",
+        "carbs": "40-45%",
+        "fat": "20-25%"
+      }
+    }
+  ]
+}
